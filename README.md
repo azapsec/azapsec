@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>azapç</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>Azap</strong></h1>
 <h3 align="center">Bug Bounty Hunter • Pentester • Web Security Researcher</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## 🕵️‍♂️ About Me
 - 🔥 Passionate **Bug Bounty Hunter**  
-- 🐞 Actively hunting on **HackerOne** → https://hackerone.com/azapç  
+- 🐞 Actively hunting on **HackerOne** → https://hackerone.com/azapsec 
 - ⚡ Specializing in:  
   - Web Vulnerabilities (XSS, SQLi, IDOR, SSRF, RCE)  
   - Recon & OSINT  
@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azapç&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azapç&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azapsec&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azapsec&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
