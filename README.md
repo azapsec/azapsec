@@ -85,9 +85,9 @@
 ---
 
 ## 💬 Contact
-- 🕳 HackerOne: **https://hackerone.com/azapç**  
-- 🐦 Twitter/X: @ add if you want  
-- 📧 Email: add if you want  
+- 🕳 HackerOne: **https://hackerone.com/azapsec  
+- 🐦 Twitter/X: @azapsec
+- 📧 Email: azapsec@gmail.com  
 
 ---
 
